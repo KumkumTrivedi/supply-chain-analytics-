@@ -1,32 +1,41 @@
-Supply Chain Optimization & Inventory Analysis
--> Project Overview
-This project focuses on optimizing supply chain operations by analyzing inventory data and sales patterns. Using a dataset of supply chain transactions, I implemented ABC Analysis and the Pareto Principle (80/20 Rule) to categorize products and identify key drivers of revenue. These insights are critical for reducing stockouts, optimizing safety stock, and improving overall logistics efficiency.
+# Hi, I'm Kumkum 👋
 
--> Tech Stack
-Language: Python
+🎓 MBA student specializing in **Business Analytics**, with a strong interest in applying
+data-driven techniques to solve real-world business and supply chain problems.
+I am actively building projects to pursue a career in **Analytics**.
 
-Libraries: Pandas (Data Manipulation), Matplotlib & Seaborn (Data Visualization)
+## 📊 Areas of Interest
+- Business & Data Analytics
+- Supply Chain and Logistics Analytics
+- Optimization and Decision Modeling
+- Exploratory Data Analysis (EDA)
+- Data Visualization for Business Insights
 
-Concepts: ABC Inventory Classification, Pareto Analysis, Revenue Optimization
+## 🛠️ Skills & Tools
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib  
+- **Optimization:** Linear Programming (PuLP)  
+- **Tools:** Jupyter Notebook, Git & GitHub  
 
--> Key Analysis Performed
-1. ABC Inventory Classification
-I categorized products into three tiers to prioritize management efforts:
+## 📂 Featured Project
+### Logistics Optimization Using Linear Programming
+A data-driven logistics optimization project that minimizes transportation costs using
+Linear Programming. The project includes exploratory data analysis, optimization modeling,
+visualization, and result interpretation based on a Kaggle dataset.
 
-Category A: Top 20% of products contributing to ~80% of sales. (High Priority)
+🔗 Repository: supply-chain-analytics-
 
-Category B: Next 30% of products contributing to ~15% of sales. (Medium Priority)
+## 🌱 Currently Learning
+- Advanced Business Analytics
+- Optimization Techniques for Decision Making
+- Practical Applications of Data Analytics in Supply Chain
 
-Category C: Final 50% of products contributing to only ~5% of sales. (Low Priority)
+## 🎯 Career Objective
+To build a career as a **Business/Data Analyst**, leveraging analytics and optimization
+techniques to support strategic and operational business decisions.
 
-2. Pareto Sales Curve
-Developed a cumulative sales percentage curve to visualize the concentration of revenue.
+## 📫 Connect With Me
+- GitHub: https://github.com/KumkumTrivedi
 
-Insight: Confirmed that a small fraction of products generates the vast majority of income, suggesting a need for tighter forecasting for "Category A" items.
-
- ->Business Impact
-Replenishment Strategy: Identified high-value items that require priority replenishment to avoid lost sales.
-
-Cost Reduction: Highlighted low-value items where stock can be reduced to free up working capital.
-
-Logistics Efficiency: Provided a data-driven framework to optimize warehouse space based on product velocity.
+⭐ Thank you for visiting my profile! Feel free to explore my projects.
